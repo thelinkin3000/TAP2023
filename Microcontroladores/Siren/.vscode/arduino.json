@@ -1,0 +1,8 @@
+{
+    "sketch": "sketch.ino",
+    "output": "build",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrispmkii",
+    "port": "COM8"
+}
